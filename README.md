@@ -3,6 +3,7 @@
 **Projects:**
 - [AtomicBot](https://github.com/AtomicXYZ/AtomicBot-discord): A discord-based Fortnite lobbybot hosting service
 - [py-Fortnite-Shop](https://github.com/AtomicXYZ/py-Fortnite-Shop): Generates a daily item-shop image
+- [DeviceAuthHandler](https://github.com/AtomicXYZ/DeviceAuthHandler): Generates device auths to be used in a variety of Fortnite projects
 
 **Packages:**
 - [EpicEndpoints](https://github.com/AtomicXYZ/EpicEndpoints): A python package for simple Epic Games device auth generation and handling
