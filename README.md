@@ -7,9 +7,9 @@ Projects:
 Packages:
 - [EpicEndpoints](https://github.com/AtomicXYZ/EpicEndpoints): A python package for simple Epic Games device auth generation and handling
 
-⭐Languages I know: Python, Java, C#, HTML/CSS
+⭐ Languages I know: Python, Java, C#, HTML/CSS
 
-🔵Languages I'm Still Learning: C++, Javascript
+🔵 Languages I'm Still Learning: C++, Javascript
 
 <!--
 **AtomicXYZ/AtomicXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
