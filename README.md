@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm AtomicXYZ
 
-Projects:
+**Projects:**
 - [AtomicBot](https://github.com/AtomicXYZ/AtomicBot-discord): A discord-based Fortnite lobbybot hosting service
 - [py-Fortnite-Shop](https://github.com/AtomicXYZ/py-Fortnite-Shop): Generates a daily item-shop image
 
-Packages:
+**Packages:**
 - [EpicEndpoints](https://github.com/AtomicXYZ/EpicEndpoints): A python package for simple Epic Games device auth generation and handling
 
 ⭐ Languages I know: Python, Java, C#, HTML/CSS
