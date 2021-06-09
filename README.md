@@ -8,6 +8,8 @@
 **Packages:**
 - [EpicEndpoints](https://github.com/AtomicXYZ/EpicEndpoints): A python package for simple Epic Games device auth generation and handling
 
+**More Info:**
+
 ⭐ Languages I know: Python, Java, C#, HTML/CSS
 
 🔵 Languages I'm Still Learning: C++, Javascript
