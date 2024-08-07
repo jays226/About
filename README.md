@@ -1,10 +1,4 @@
-**Projects:**
-- [py-Fortnite-Shop](https://github.com/AtomicXYZ/py-Fortnite-Shop): Generates a daily item-shop image
-- [DeviceAuthHandler](https://github.com/AtomicXYZ/DeviceAuthHandler): Generates device auths to be used in a variety of Fortnite projects
-- [Clash Royale Decks](https://github.com/AtomicXYZ/clashroyale-decks): Allows users to search player's decks by NAME without needing their player tag (#)
-
-**Packages:**
-- [EpicEndpoints](https://github.com/AtomicXYZ/EpicEndpoints): A python package for simple Epic Games device auth generation and handling
+Second-year student at University of Virginia pursuing a B.A. in Computer Science & B.A. in Economics.
 
 
 <!--
