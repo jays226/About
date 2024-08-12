@@ -5,7 +5,7 @@ I am a second-year student pursuing a double major in Computer Science and Econo
 **Projects**
 - [GrapevineHealth](https://github.com/jays226/GrapevineHealth): Creating a website inspired by "Instagram" improve health literacy among individuals in underserved communities
 - [Spotify AI](https://github.com/jays226/SpotifyAI): Makes an AI-generated Spotify playlist based on a search term
-- [Clash Royale Deck Search](https://github.com/jays226/ClashRoyaleDecks): An original project to easily access player's profiles by NAME. This is much easier than the classic method of looking up by tag.
+- [Clash Royale Deck Search](https://github.com/jays226/ClashRoyaleDecks): Original project to easily access player's profiles by name, which is much easier than looking up by tag
 - [py-Fortnite-Shop](https://github.com/AtomicXYZ/py-Fortnite-Shop): Generates a daily item-shop image
 - [DeviceAuthHandler](https://github.com/AtomicXYZ/DeviceAuthHandler): Generates device auths to be used in a variety of Fortnite projects
 
