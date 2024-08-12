@@ -1,4 +1,4 @@
-# About
+# About me
 
 I am a second-year student pursuing a double major in Computer Science and Economics at the University of Virginia
 
