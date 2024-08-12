@@ -1,4 +1,6 @@
-Second-year student at University of Virginia pursuing a B.A. in Computer Science & B.A. in Economics.
+# About
+
+I am a second-year student pursuing a double major in Computer Science and Economics at the University of Virginia
 
 
 <!--
